@@ -1,0 +1,45 @@
+// Place all the styles related to the rooms controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.room_form{
+    padding-top :20px ;
+}
+
+input[type="text"] {
+    height: 40px;
+}
+
+
+.room_form_FileUpload{
+padding-top : 20px;
+}
+
+.btn{
+  display       : inline-block;
+  border-radius :20px;      
+  font-size     : 20px;       
+  text-align    : center;      
+  cursor        : pointer;     
+  background    :  #FF6600;
+  color         : #FFFFFF ; 
+  box-shadow    : 6px 6px 3px #666666;  
+  border        : 1px solid ;    
+  margin :20px 5px;
+  padding :5px 130px;
+
+}
+
+.back{
+  display       : inline-block;
+  border-radius :20px;      
+  font-size     : 20px;       
+  text-align    : center;      
+  cursor        : pointer;     
+  color         : #000000	;
+  box-shadow    : 6px 6px 3px #666666;  
+  border        : 1px solid ;    
+  margin :20px 5px;
+  padding :5px 100px;
+
+}
+
